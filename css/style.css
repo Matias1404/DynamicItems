@@ -1,0 +1,59 @@
+header{
+    background-color: olivedrab;
+}
+body {
+    background-color:green;
+}
+.titulo{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.nav li {
+    margin-bottom: 10px;
+    margin-right: 50px;
+    font-size: large;   
+}
+a {
+    text-decoration: none;
+}
+table {
+    width: 50%;
+    margin-left: 25%;
+}
+thead {
+    background-color: olivedrab;
+}
+tbody {
+    background-color: white;
+}
+th, td {
+    border: solid black 1px;
+}
+div h2, form {
+    display: flex;
+    justify-content: center;
+}
+input {
+    margin: 5px;
+}
+select{
+    margin: 5px;
+    height: 25px;
+}
+.jugador li {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    margin: 50px;
+}
+.error {
+    display: flex;
+    justify-content: center;
+}
