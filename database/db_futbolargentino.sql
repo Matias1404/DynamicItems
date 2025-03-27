@@ -89,8 +89,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id_user`, `email`, `password`) VALUES
-(1, 'matiasgatti@gmail.com', '$2a$12$iWKH3QQSg7dCVvmgOHC4o.keSfs/qOk4IlxLfBSvjyBpGmFmuy7/K');
-
+(1, 'matiasgatti@gmail.com', '$2a$12$1i9DIUG.bJdRN1VVCwLGheZgiyopXskkLcWY6qBNMa1pBKVI0jiqC');
+-- Contraseña: 12345
 --
 -- Índices para tablas volcadas
 --
